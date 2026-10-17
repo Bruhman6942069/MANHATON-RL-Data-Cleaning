@@ -3,6 +3,7 @@
 This repository contains the official implementation of the data preprocessing and state-trajectory repair environment detailed in **"MANHATON: An Offline Reinforcement Learning Framework for Autonomous Data Cleaning to Optimize State Transition Integrity in Clinical Datasets."**
 
 The framework reformulates multi-variable missing data reconstruction in continuous clinical feature spaces as an offline Markov Decision Process (MDP). Policy convergence is driven by a localized, variance-weighted $L_1$ Manhattan Distance penalty structure designed to maintain natural population distributions and multi-variable covariance boundaries without introducing out-of-distribution structural noise.
+**Official Repository:** [https://github.com/Bruhman6942069/MANHATON-RL-Data-Cleaning]
 
 ## Repository Architecture
 
