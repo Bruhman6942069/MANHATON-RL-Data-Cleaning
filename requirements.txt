@@ -3,3 +3,4 @@ This manifest pins the specific software library versions needed to guarantee id
 numpy==1.26.4
 pandas==2.2.2
 scikit-learn==1.5.0
+xgboost==3.4.1
