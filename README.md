@@ -1,6 +1,6 @@
 # MANHATON: Offline Reinforcement Learning Framework for Autonomous Data Cleaning
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8475.svg)](https://doi.org/10.5281/zenodo.8475)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23436582.svg)](https://doi.org/10.5281/zenodo.23436582)
 
 This repository contains the official implementation of the data preprocessing and state-trajectory repair environment detailed in **"MANHATON: An Offline Reinforcement Learning Framework for Autonomous Data Cleaning to Optimize State Transition Integrity in Clinical Datasets."**
 
